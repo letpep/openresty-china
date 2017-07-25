@@ -62,7 +62,7 @@ return {
 	        port = 3306,
 	        database = "blog",
 	        user = "root",
-	        password = "",
+	        password = "root",
 	        max_packet_size = 1024 * 1024
 		},
 		pool_config = {
